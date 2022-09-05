@@ -123,8 +123,8 @@ h2
 }
 
 .img_producto_container {
-  width: 500px;
-  height: 300px;
+  width: 1000px;
+  height: 500px;
   position: relative;
   overflow: hidden;
   cursor: zoom-in;
