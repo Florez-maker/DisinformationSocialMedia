@@ -121,10 +121,14 @@ h2
 {
  text-decoration: underline;
 }
+h3
+{
+font-weight: normal;
+}
 
 .img_producto_container {
-  width: 1680px;
-  height: 1496px;
+  width: 420px;
+  height: 374px;
   position: relative;
   overflow: hidden;
   cursor: zoom-in;
